@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.largeFileOptimizations": false,
+    "git.confirmSync": false,
+    "azureApiManagement.showSavePrompt": false,
+    "redhat.telemetry.enabled": true,
+    "terminal.explorerKind": "external",
+    "terminal.external.windowsExec": "C:\\Users\\gregj\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+    "terminal.integrated.fontFamily": "MesloLGM NF",
+    "security.workspace.trust.untrustedFiles": "open"
+}
